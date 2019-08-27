@@ -1,0 +1,9 @@
+[peter]
+	smith = Peter Smith
+[user]
+	name = Bikram Katel
+	email = bikramkatel@gmail.com
+[color]
+	ui = auto
+[alias]
+	cm = commit
